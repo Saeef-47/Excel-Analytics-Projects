@@ -1,9 +1,12 @@
-# Pokémon Data Lookup – Excel Project
+# Data Validation – Excel Project
 
 ## Overview
-This project analyses Pokémon data using Excel functions. It demonstrates how to utilise `VLOOKUP` to retrieve related information and how to identify and handle duplicate values within a dataset.
+This project demonstrates the use of Excel's Data Validation feature to control data entry and improve data accuracy. It includes dropdown lists, input messages, and error alerts.
 
 ## Skills Used
-- `VLOOKUP` to retrieve data from other columns based on a key value  
-- Conditional formatting to highlight duplicates  
-- Data cleaning and validation techniques
+- Data validation rules (list, number, date, etc.)  
+- Creating dropdown menus  
+- Adding input messages and custom error alerts  
+- Preventing invalid data entry
+
+
