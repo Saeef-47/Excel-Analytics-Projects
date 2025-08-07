@@ -1,14 +1,10 @@
-# Calculations – Excel Project
+# Cat Data Analysis – Excel Project
 
 ## Overview
-This project demonstrates basic Excel calculations including sum, multiplication, division, and percentage formulas. It is designed to showcase fundamental formula skills used in data analysis.
+This project explores a dataset related to cats and demonstrates the use of essential Excel functions such as `MIN`, `MAX`, `COUNT`, `COUNTIF`, and `COUNTIFS` to extract insights.
 
 ## Skills Used
-- SUM for addition  
-- Multiplication and division formulas  
-- Percentage calculations  
-- Basic cell referencing and formula writing
-
-## File
-- `https://github.com/Saeef-47/Excel-Analytics-Projects/blob/main/Project%201%20calculations.xlsx`
-
+- `MIN` and `MAX` to find smallest and largest values  
+- `COUNT` to count all entries  
+- `COUNTIF` for single-condition filtering  
+- `COUNTIFS` for multi-condition filtering
