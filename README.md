@@ -1,12 +1,12 @@
-# Sales Dashboard – Excel Project
+# IPL Dashboard – Excel Project
 
 ## Overview
-This project features an interactive Sales Dashboard built in Excel. It provides a visual summary of sales performance using charts, pivot tables, and slicers to enable dynamic data exploration.
+This project features an interactive dashboard analyzing IPL match data using Excel Pivot Tables and Slicers. It provides insights into team performance, player statistics, and match outcomes.
 
 ## Skills Used
-- Dashboard design and layout  
-- Pivot tables and pivot charts  
-- Slicers for interactive filtering  
-- KPIs and trend analysis  
-- Data cleaning and formatting
+- Pivot Tables for data aggregation  
+- Slicers for dynamic filtering  
+- Dashboard layout and design  
+- Data cleaning and formatting  
+- Basic statistical analysis
 
