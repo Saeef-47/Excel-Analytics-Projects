@@ -10,4 +10,5 @@ This project demonstrates basic Excel calculations including sum, multiplication
 - Basic cell referencing and formula writing
 
 ## File
-- `calculations.xlsx`
+- `https://github.com/Saeef-47/Excel-Analytics-Projects/blob/main/Project%201%20calculations.xlsx`
+
