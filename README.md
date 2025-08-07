@@ -1,12 +1,12 @@
-# Data Validation – Excel Project
+# Sales Dashboard – Excel Project
 
 ## Overview
-This project demonstrates the use of Excel's Data Validation feature to control data entry and improve data accuracy. It includes dropdown lists, input messages, and error alerts.
+This project features an interactive Sales Dashboard built in Excel. It provides a visual summary of sales performance using charts, pivot tables, and slicers to enable dynamic data exploration.
 
 ## Skills Used
-- Data validation rules (list, number, date, etc.)  
-- Creating dropdown menus  
-- Adding input messages and custom error alerts  
-- Preventing invalid data entry
-
+- Dashboard design and layout  
+- Pivot tables and pivot charts  
+- Slicers for interactive filtering  
+- KPIs and trend analysis  
+- Data cleaning and formatting
 
