@@ -1,11 +1,10 @@
-# COVID-19 Dashboard – Excel Project
+# Average Revenue Analysis – Excel Project
 
 ## Overview
-This project presents a dynamic dashboard in Excel to visualize and track COVID-19 data. It includes key metrics like total cases, recoveries, deaths, and trend analysis using charts and slicers.
+This project uses Excel Pivot Tables to analyze average revenue across various categories such as regions, products, or time periods. It highlights how to derive meaningful insights using AVERAGE calculations in a pivot table.
 
 ## Skills Used
-- Dashboard creation using Pivot Tables and Charts  
-- Data cleaning and preparation  
-- Slicers for interactive filtering  
-- Visual storytelling and KPIs  
-- Trend and comparative analysis
+- Creating Pivot Tables  
+- Calculating average revenue by category  
+- Sorting and filtering data  
+- Data summarization and insights
